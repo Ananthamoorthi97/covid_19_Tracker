@@ -3,6 +3,7 @@
 }
 .card{
     margin: 0 2% !important;
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.netsafe.org.nz%2Fwp-content%2Fuploads%2F2020%2F04%2F2020-COVID-19_Masks-PATTERN_Header_1140x641.jpg&f=1&nofb=1');
 }
 .infected{
     border-bottom: 10px solid rgba(0,0,255 ,0.5) ;
